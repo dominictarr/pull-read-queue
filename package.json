@@ -8,7 +8,7 @@
     "url": "git://github.com/dominictarr/pull-read-queue.git"
   },
   "dependencies": {
-    "pull-pause": "0.0.1",
+    "pull-pause": "0.0.2",
     "pull-stream": "^3.6.1"
   },
   "devDependencies": {},
